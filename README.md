@@ -1,1 +1,2 @@
 # myFirstRepo
+This is a repository created to both experiment with as well as to add practical application on my road-map through coding.  The Root directory will contain files and sub folders to help the navigation in this process. Keep them clean and organized.
